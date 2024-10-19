@@ -6,3 +6,7 @@ This project integrates **hand tracking**, **controller tracking**, **passthroug
 - **Controller Tracking**: Supports standard controller input for more precise control or mixed usage with hand tracking.
 - **Passthrough Mode**: Enables users to see their real environment through the VR headset, enhancing spatial awareness and safety.
 - **Basketball**: Includes a fully interactive basketball that can be picked up, thrown, and interacted with using both hand and controller tracking.
+
+## Demo
+https://github.com/user-attachments/assets/3a98ad19-7cbd-4b60-be27-43a1caf4d261
+
